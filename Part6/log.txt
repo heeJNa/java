@@ -1,0 +1,10 @@
+11월 09, 2021 6:11:27 오후 log.MyLogger warning
+WARNING: name must not be null
+11월 09, 2021 6:11:27 오후 log.MyLogger warning
+WARNING: 이름이 너무 길어요
+11월 09, 2021 6:12:53 오후 log.MyLogger warning
+WARNING: name must not be null
+11월 09, 2021 6:12:53 오후 log.MyLogger warning
+WARNING: 이름이 너무 길어요
+11월 09, 2021 6:12:53 오후 log.MyLogger fine
+FINE: begin getStudentName()
